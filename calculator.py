@@ -1,0 +1,7 @@
+a=int(14)
+b=int(25)
+print("Calculator evalution")
+print("Addition=" a+b)
+print("Subtraction=" a-b)
+print("Multiplication=" a*b)
+print("Division=" a/b)
